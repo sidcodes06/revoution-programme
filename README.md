@@ -1,2 +1,2 @@
 # revoution-programme
-Author - Siddharth Mishra
+Author - Siddhartha Mishra
